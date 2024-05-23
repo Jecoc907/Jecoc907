@@ -18,17 +18,35 @@
 
 My name is Jeco, and I am currently a graduate student majoring in Business Analytics at University of Southern California, Marhsall School of Business. My background is in economics and accounting. I spent 3 years in tax accounting industry and now working on pivoting to entertainment industry🎞️🏀
 
-### Personal & Academic Projects I have worked on:
-
+## Personal & Academic Projects I have worked on:
 
 
 ## Projects
-- [Streaming-Ecosystem-Analysis]https://github.com/Jecoc907/Streaming-Ecosystem-Analysis: \
-  In this project, we focused on a television studio and the decision-making process for producing our next TV show. We conducted a market analysis to understand the content offerings on mainstream platforms like Netflix, Hulu, and Amazon Prime Video, and explored potential market opportunities. (https://www.canva.com/design/DAGEYNr8Cuk/oObI6SH1OlomM7pxXRQ0wQ/edit)
+<table>
+<tr align="center"><th>My Personal Projects </th></tr>
+
+|Title | Description | Technologies|
+|--|--|--|
+|- [Streaming-Ecosystem-Analysis](https://github.com/Jecoc907/Streaming-Ecosystem-Analysis)|In this project, we focused on a television studio and the decision-making process for producing our next TV show. We conducted a market analysis to understand the content offerings on mainstream platforms like Netflix, Hulu, and Amazon Prime Video, and explored potential market opportunities. (https://www.canva.com/design/DAGEYNr8Cuk/oObI6SH1OlomM7pxXRQ0wQ/edit)| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+</td><td>  </table>
+
+<table>
 
 ## Skills
-- **Languages**: Python, SQL(PostgreSQL), NoSQL(MongoDB, Neo4j), R
-- **Tools**: Git
+### Languages
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+
+### Databases
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+
 
 <!--
 **Jecoc907/Jecoc907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
