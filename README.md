@@ -16,7 +16,9 @@
   
 ## Welcome to my Github playground 🕺🏻
 
-My name is Jeco, and I am currently a graduate student majoring in Business Analytics at University of Southern California, Marhsall School of Business. My background is in economics and accounting. I spent 3 years in tax accounting industry and now working on pivoting to entertainment industry🎞️🏀
+My name is Jeco, and I am currently a graduate student majoring in Business Analytics at the University of Southern California's Marshall School of Business. With a background in economics and accounting, I have spent three years in the tax accounting industry and am now transitioning into the entertainment sector 🎞️🏀.
+
+Throughout my academic and professional journey, I have worked on various projects in marketing (Airbnb), sports performance analytics (NBA, ATP), and finance. These experiences have equipped me with a diverse skill set and a strong analytical foundation, which I am eager to apply in the dynamic world of entertainment.
 
 ## Personal & Academic Projects I have worked on:
 
@@ -27,7 +29,7 @@ My name is Jeco, and I am currently a graduate student majoring in Business Anal
 
 |Title | Description | Technologies|
 |--|--|--|
-|- [Streaming-Ecosystem-Analysis](https://github.com/Jecoc907/Streaming-Ecosystem-Analysis)|In this project, we focused on a television studio and the decision-making process for producing our next TV show. We conducted a market analysis to understand the content offerings on mainstream platforms like Netflix, Hulu, and Amazon Prime Video, and explored potential market opportunities. (https://www.canva.com/design/DAGEYNr8Cuk/oObI6SH1OlomM7pxXRQ0wQ/edit)| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+|[Streaming-Ecosystem-Analysis](https://github.com/Jecoc907/Streaming-Ecosystem-Analysis)|In this project, we focused on a television studio and the decision-making process for producing our next TV show. We conducted a market analysis to understand the content offerings on mainstream platforms like Netflix, Hulu, and Amazon Prime Video, and explored potential market opportunities. (https://www.canva.com/design/DAGEYNr8Cuk/oObI6SH1OlomM7pxXRQ0wQ/edit)| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 </td><td>  </table>
 
 <table>
