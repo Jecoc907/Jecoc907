@@ -18,7 +18,7 @@
 
 My name is Jeco, and I am currently a graduate student majoring in Business Analytics at the University of Southern California's Marshall School of Business. With a background in economics and accounting, I have spent three years in the tax accounting industry and am now transitioning into the entertainment sector 🎞️🏀.
 
-Throughout my academic and professional journey, I have worked on various projects in marketing (Airbnb), sports performance analytics (NBA, ATP), and finance. These experiences have equipped me with a diverse skill set and a strong analytical foundation, which I am eager to apply in the dynamic world of entertainment.
+Throughout my academic and professional journey, I have worked on various projects in marketing (Airbnb, Streaming platforms), sports performance analytics (NBA, ATP), and finance(Option pricing model). These experiences have equipped me with a diverse skill set and a strong analytical foundation, which I am eager to apply in the dynamic world of entertainment.
 
 ## Personal & Academic Projects I have worked on:
 
