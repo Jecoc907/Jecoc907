@@ -25,12 +25,17 @@ Throughout my academic and professional journey, I have worked on various projec
 
 ## Projects
 <table>
-<tr align="center"><th>My Personal Projects </th></tr>
+<tr align="center"><th>Academic Projects </th></tr>
 
 |Title | Description | Technologies|
 |--|--|--|
-|[Streaming-Ecosystem-Analysis](https://github.com/Jecoc907/Streaming-Ecosystem-Analysis)|In this project, we focused on a television studio and the decision-making process for producing our next TV show. We conducted a market analysis to understand the content offerings on mainstream platforms like Netflix, Hulu, and Amazon Prime Video, and explored potential market opportunities. (https://www.canva.com/design/DAGEYNr8Cuk/oObI6SH1OlomM7pxXRQ0wQ/edit)| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+|[Streaming-Ecosystem-Analysis](https://github.com/Jecoc907/Streaming-Ecosystem-Analysis)|In this project, we focused on a television studio and the decision-making process for producing our next TV show. We conducted a market analysis to understand the content offerings on mainstream platforms like Netflix, Hulu, and Amazon Prime Video, and explored potential market opportunities. [Link-to-presentation](https://www.canva.com/design/DAGEYNr8Cuk/Ijg2tGfTH4yUQfkQjClQuQ/view?utm_content=DAGEYNr8Cuk&utm_campaign=designshare&utm_medium=link&utm_source=editor)| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+|[NBA-Power-Partnership-Analysis](https://github.com/Jecoc907/NBA-Power-Partnership-Analysis)|In this project, we want to learn and analyze why are certain basketball teams are successful. The 19-20 Lakers champion team with the power partnership duo, LeBron James and Anthony Davis, was used as an example. [Link-to-presentation](https://www.canva.com/design/DAF-mS6yBkw/3ocgKEQtBO2qb2fRMvn7pQ/view?utm_content=DAF-mS6yBkw&utm_campaign=designshare&utm_medium=link&utm_source=editor)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)|
+|[Options-Pricing-with-ML-models](https://github.com/Jecoc907/Options-Pricing-with-ML-models)|Our goal in this project was to develop statistical and machine learning models to replicate the functionality of the traditional Black-Scholes option pricing formula, specifically for valuing European call options. [Link-to-presentation](https://www.canva.com/design/DAGCRM0SKgA/xIO2bjnMmHvIkmfUF9xz_g/view?utm_content=DAGCRM0SKgA&utm_campaign=designshare&utm_medium=link&utm_source=editor)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)|
 </td><td>  </table>
+
+<table>
+<tr align="center"><th>My Personal Projects </th></tr>
 
 <table>
 
@@ -41,6 +46,13 @@ Throughout my academic and professional journey, I have worked on various projec
 
 ### Databases
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### ML/DL
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
