@@ -37,6 +37,10 @@ Throughout my academic and professional journey, I have worked on various projec
 <table>
 <tr align="center"><th>My Personal Projects </th></tr>
 
+|Title | Description | Technologies
+|--|--|--|
+|[Causal-Relationship-Analysis-Twitch-viewership-vs-Active-Players](https://github.com/Jecoc907/Causal-Relationship-Analysis-Twitch-viewership-vs-Active-Players-)|In this project, our group is interested in whether there is causal relationship between a game’s Twitch viewership and its active player engagement. We are using the case of Tom Clancy’s Rainbow Six Siege as a primary example, and extending the analysis to Counter-Strike 2 and Rust. [Link-to-presentation](https://www.canva.com/design/DAGJ8Q4TPus/Csas6wEOTowUq0Q_ICklhw/view?utm_content=DAGJ8Q4TPus&utm_campaign=designshare&utm_medium=link&utm_source=editor)| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+
 <table>
 
 ## Skills
