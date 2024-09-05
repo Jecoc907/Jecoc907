@@ -18,7 +18,7 @@
 
 Hi this is Jeco! I am currently a graduate student majoring in Business Analytics at the University of Southern California's Marshall School of Business. With a background in economics and accounting, I have spent three years in the tax accounting industry and am now transitioning into the entertainment sector.
 
-Throughout my academic and professional journey, I have worked on various projects in market analysis (Airbnb, Streaming platforms), sports performance analysis (NBA, ATP), and financial modeling(Option pricing model). These experiences have equipped me with a diverse skill set and a strong analytical foundation, which I am eager to apply in the dynamic world of entertainment.
+Throughout my academic and professional journey, I have worked on various projects in market analysis (Airbnb, Streaming platforms), sports performance analysis (NBA, ATP), gaming industry analysis(how does Twitch viewership affect a game's popularity) and financial models analysis(Option pricing model). These experiences have equipped me with a diverse skill set and a strong analytical foundation, which I am eager to apply in the dynamic world of entertainment.
 
 ## Personal & Academic Projects I have worked on:
 
@@ -46,7 +46,8 @@ Throughout my academic and professional journey, I have worked on various projec
 ## Skills
 ### Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Databases
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
