@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Calbri&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Chun+Yat+(Jeco)+Cheung;Business+Analytics+%7C+Problem-solver;Entertainment+%7C+Sports+%7C+Outdoor+Enthusiam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calbri&size=20&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Chun+Yat+(Jeco)+Cheung;Business+Analytics+%7C+Problem-solver;Entertainment+%7C+Sports+%7C+Outdoor+Enthusiam" alt="Typing SVG" />
 </a>
   <br/>
   <br/>
