@@ -16,9 +16,11 @@
   
 ## Welcome to my Github playground 🕺🏻
 
-Hi this is Jeco! I am currently a graduate student majoring in Business Analytics at the University of Southern California's Marshall School of Business. With a background in economics and accounting, I have spent three years in the tax accounting industry and am now transitioning into the entertainment sector.
+Hi, this is Jeco! I’m a data analyst based in Los Angeles, currently working at SeaOvers, a media tech company focused on OTT/FAST streaming and ad monetization. With a background in economics and accounting, I bring a data-driven approach to analyzing content performance, user engagement, and advertising metrics across streaming platforms.
 
-Throughout my academic and professional journey, I have worked on various projects in market analysis (Airbnb, Streaming platforms), sports performance analysis (NBA, ATP), gaming industry analysis(how does Twitch viewership affect a game's popularity) and financial models analysis(Option pricing model). These experiences have equipped me with a diverse skill set and a strong analytical foundation, which I am eager to apply in the dynamic world of entertainment.
+In my current role, I work closely with cross-functional teams to track ad performance (CPM, fill rate, pacing), build dashboards in Tableau and Looker Studio, and ensure data accuracy across multiple platforms. I’m particularly interested in how data can drive content strategy and monetization in the evolving streaming landscape.
+
+Previously, I worked on projects spanning market analysis (Airbnb, streaming platforms), gaming analytics (Twitch viewership and player engagement), sports performance (NBA, ATP), and financial modeling. These experiences have shaped my analytical mindset and strengthened my ability to turn complex datasets into actionable insights.
 
 ## Personal & Academic Projects I have worked on:
 
